@@ -8,7 +8,7 @@ Sh*t can happen.
 それはどうしても起きてしまうこと。
     
 PyLadies wants to provide a safe space for its members, so we’ve written this document to help those who experience harassment within the PyLadies community.    
-PyLadiesはハラスメントを受けたことのある、または受けるであろうコミュニティメンバーの手助けになるよう、この章を作成しました。Pyladiesはメンバーに安全な場所を提供したいと考えているのです。
+Pyladiesはメンバーに安全な場所を提供したいと考えています。そのため、PyLadiesはハラスメントを受けるであろうコミュニティメンバーの手助けになるよう、この章を作成しました。Pyladiesはメンバーに安全な場所を提供したいと考えているのです。
     
 ### note
 ```text
