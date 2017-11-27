@@ -1,4 +1,5 @@
 # Who to Talk to
+# 誰に話せばいいですか？
     
     
 If you’ve faced harassment or witness an event attendee or someone within a PyLadies chatroom, we encourage you to report what you saw to an organizer, chat operator, or whomever is in charge of the space.     
