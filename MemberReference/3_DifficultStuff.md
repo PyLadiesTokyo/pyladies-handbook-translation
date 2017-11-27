@@ -2,7 +2,7 @@
 私たちを取り巻く難しい問題
     
 While we all strive to be awesome, sh*t happens.    
-私たちが一生懸命努力している間、様々な困難にぶつかります。    
+私たちが賞賛に値するような努力している間、様々な困難にぶつかります。    
     
 Please have a read of the following resources: 
 いつか出会う困難に備えて、次のページの一読をお願いします。   
