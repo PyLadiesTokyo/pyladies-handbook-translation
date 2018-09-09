@@ -9,27 +9,30 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyLadies Handbook 2.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-08 19:44+0900\n"
+"POT-Creation-Date: 2018-01-20 17:04+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: 瀧 萌香taki moeka <taki.moeka.p0@tufs.ac.jp>, 2018\n"
+"Language-Team: Japanese (https://www.transifex.com/pyladiestokyo/teams/82182/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../member/about.rst:4
 msgid "About PyLadies"
-msgstr ""
+msgstr "PyLadies について"
 
 #: ../../member/about.rst:7
 msgid ""
-"We are an international mentorship group with a focus on helping more "
-"women become active participants and leaders in the Python open-source "
-"community. Our mission is to promote, educate and advance a diverse "
-"Python community through outreach, education, conferences, events and "
-"social gatherings."
+"We are an international mentorship group with a focus on helping more women "
+"become active participants and leaders in the Python open-source community. "
+"Our mission is to promote, educate and advance a diverse Python community "
+"through outreach, education, conferences, events and social gatherings."
 msgstr ""
+"PyLadiesは、多くの女性がPythonのオープンソースコミュニティに積極的に参加し、リーダーとなることを支援する国際的なメンタリンググループです。"
+" 私たちの使命は、奉仕、教育、カンファレンス、イベント、ソーシャルな集まりを通じて、多様性のあるPythonコミュニティを促進、教育、推進することです。"
 
 #: ../../member/about.rst:9
 msgid ""
@@ -37,101 +40,115 @@ msgid ""
 "bridge to the larger Python world. Anyone with an interest in Python is "
 "encouraged to participate!"
 msgstr ""
+"また、PyLadiesは女性のために親しみやすいサポートネットワークを提供し、より大きなPythonの世界への橋渡しをすることを目指しています。 "
+"Pythonに関心を持つ人は誰でも参加できます！"
 
 #: ../../member/coc.rst:2
 msgid "PyLadies Code of Conduct"
-msgstr ""
+msgstr "PyLadies 行動規範"
 
 #: ../../member/coc.rst:4
 msgid ""
-"All PyLadies events (Meetups, conference lunches, etc), online spaces "
-"(IRC, Facebook, etc) are beholden to the PyLadies :ref:`coc`."
+"All PyLadies events (Meetups, conference lunches, etc), online spaces (IRC, "
+"Facebook, etc) are beholden to the PyLadies :ref:`coc`."
 msgstr ""
+"すべてのPyLadiesのイベント（ミートアップ、カンファレンスでのランチなど）、オンラインスペース（チャットシステム、Facebook等）はPyLadiesの行動規範"
+" :ref:`coc` を守ります。"
 
 #: ../../member/coc.rst:6
 msgid ""
-"Every PyLadies location is **required** to make :ref:`coc` public in some"
-" way.  For instance, PyLadies SF has a dedicated `page`_ on their Meetup "
-"space.  The ``#pyladies`` IRC channel on Freenode has a link to the `main"
-" website's`_ Code of Conduct in the topic of the channel."
+"Every PyLadies location is **required** to make :ref:`coc` public in some "
+"way.  For instance, PyLadies SF has a dedicated `page`_ on their Meetup "
+"space.  The ``#pyladies`` IRC channel on Freenode has a link to the `main "
+"website's`_ Code of Conduct in the topic of the channel."
 msgstr ""
+"全ての地域のPyLadiesはなんらかの方法で :ref:`coc` を公にする必要があります。たとえば、PyLadies "
+"サンフランシスコはミートアップスペースに行動規範専用の `page`_ があります。チャットシステムの ``#pyladies`` "
+"チャンネルは、チャンネルのトピックの中にウェブサイトの  `main website's`_  "
+"の行動規範へのリンクを、チャンネルトピックとして設定しています。  "
 
 #: ../../member/coc.rst:8
 msgid ""
 "If you can not find the following Code of Coduct posted somewhere (e.g. "
-"wherever they post events), please reach out to your locations' "
-"organizers."
+"wherever they post events), please reach out to your locations' organizers."
 msgstr ""
+"もしあなたが以下の行動規範をウェブサイトの中（例えば作成されたイベントページ）にみつけられない場合は、その地域のオーガナイザーにお問い合わせください。"
 
 #: ../../member/coc.rst:13
 msgid "Code of Conduct Policy"
-msgstr ""
+msgstr "行動規範方針"
 
 #: ../../member/coc.rst:15
 msgid ""
-"Pyladies is dedicated to providing a respectful, harassment-free "
-"community for everyone. We do not tolerate harassment or bullying of any "
-"community member in any form. This does not only extend to members to "
-"local PyLadies communities, but to anyone who chooses to become involved "
-"in the larger PyLadies community of users, developers and integrators "
-"through events or interactions."
+"Pyladies is dedicated to providing a respectful, harassment-free community "
+"for everyone. We do not tolerate harassment or bullying of any community "
+"member in any form. This does not only extend to members to local PyLadies "
+"communities, but to anyone who chooses to become involved in the larger "
+"PyLadies community of users, developers and integrators through events or "
+"interactions."
 msgstr ""
+"PyLadiesは全ての参加者に対して、お互いに尊重し合い、ハラスメントの無いコミュニティを提供するべく行動します。我々はいかなるメンバーのいかなる種類のハラスメントやイジメを容認しません。これは、ローカルのPyLadiesコミュニュティメンバーだけではなく、イベントや交流を通じて、ユーザーやデベロッパー、インテグレーターからなるより広範囲のPyLadiesコミュニティに参加する全ての人を対象とします。"
 
 #: ../../member/coc.rst:17
 msgid ""
-"Harassment includes offensive verbal/electronic comments related to "
-"personal characteristics or choices, sexual images or comments in public "
-"or online spaces, deliberate intimidation, bullying, stalking, following,"
-" harassing photography or recording, sustained disruption of talks, IRC "
-"chats, electronic meetings, physical meetings or other events, "
-"inappropriate physical contact, or unwelcome sexual attention. "
-"Participants asked to stop any harassing or bullying behavior are "
-"expected to comply immediately."
+"Harassment includes offensive verbal/electronic comments related to personal"
+" characteristics or choices, sexual images or comments in public or online "
+"spaces, deliberate intimidation, bullying, stalking, following, harassing "
+"photography or recording, sustained disruption of talks, IRC chats, "
+"electronic meetings, physical meetings or other events, inappropriate "
+"physical contact, or unwelcome sexual attention. Participants asked to stop "
+"any harassing or bullying behavior are expected to comply immediately."
 msgstr ""
+"ハラスメントには、個人の性格や選択に関する失礼な発言や電子媒体でのコメント、公的な場またはオンライン空間での性的な画像やコメント、意図的に傷つけること、暴力、ストーカー行為、つきまとい、失礼な写真撮影または録音、会話の中断への加担、IRCチャット、電子会議、オフラインの会議または他のイベント、不適切な肉体接触、望まない性的な歓心が含まれます。\n"
+"参加者は、これらのハラスメント行為を止めるように求められた場合、すぐに従わなければなりません。"
 
 #: ../../member/coc.rst:19
 msgid ""
 "If a participant engages in harassing behavior, representatives of the "
 "community may take reasonable action they deem appropriate, including "
-"warning the offender, expulsion from any PyLadies event, or expulsion "
-"from mailing lists, IRC chats, discussion boards and other electronic "
+"warning the offender, expulsion from any PyLadies event, or expulsion from "
+"mailing lists, IRC chats, discussion boards and other electronic "
 "communications channels to resolve the issue. This may include expulsion "
 "from PyLadies Meetup group membership."
 msgstr ""
+"参加者がハラスメント行為に関与していた場合、コミュニティ代表者は、違反者に対する警告、PyLadiesイベントからの退出、またはメーリングリスト、チャットツール、掲示板及びその他電子コミュニケーションチャンネルからの削除等、問題を解決するための合理的な措置を講ずることとする。この措置にはPyLadiesミートアップグループメンバーシップからの除名処分も含まれるものとする。"
 
 #: ../../member/coc.rst:21
 msgid ""
-"If you are being harassed, notice that someone else is being harassed, or"
-" have any other concerns, please act to intercede or ask for help from "
-"any member of the PyLadies community, IRC chat admins, website admins, or"
-" organizers/representatives of any physical events put on under the "
-"auspices of PyLadies."
+"If you are being harassed, notice that someone else is being harassed, or "
+"have any other concerns, please act to intercede or ask for help from any "
+"member of the PyLadies community, IRC chat admins, website admins, or "
+"organizers/representatives of any physical events put on under the auspices "
+"of PyLadies."
 msgstr ""
+"もしPyLaidesのイベントであなたがハラスメントを受けたり、他の人がハラスメントを受けていることに気がついたら、PyLadiesコミュニティのメンバーに助けを求めてください。スタッフまたはオーガナイザー、チャットツールの管理者、ウェブサイトの管理者に連絡してください。"
 
 #: ../../member/coc.rst:23
 msgid ""
-"This Code of Conduct has been adapted from the `Plone Foundation`_ and is"
-" licensed under a Creative Commons Attribution-Share Alike 3.0 Unported "
+"This Code of Conduct has been adapted from the `Plone Foundation`_ and is "
+"licensed under a Creative Commons Attribution-Share Alike 3.0 Unported "
 "`license`_."
 msgstr ""
+"この行動規範は `Plone Foundation`_ から継承されており、クリエイティブ・コモンズ 表示-継承3.0  `license`_ "
+"に基づきライセンスされています。"
 
 #: ../../member/index.rst:2
 msgid "Member Reference"
-msgstr ""
+msgstr "メンバー参照"
 
 #: ../../member/index.rst:9
 msgid "Joining PyLadies"
-msgstr ""
+msgstr "PyLadiesへの参加"
 
 #: ../../member/index.rst:11
 msgid ""
 "Want to join PyLadies? Fantastic!  But I hate to break it to you, you "
 "already are one ;-)."
-msgstr ""
+msgstr "PyLadiesへ参加したいですか？素晴らしい！しかし、少し言いにくいことですが、あなたは既に私たちの仲間です  ;-)"
 
 #: ../../member/index.rst:14
 msgid "Finding your local PyLadies"
-msgstr ""
+msgstr "地域のPyLadiesを探す"
 
 #: ../../member/index.rst:16
 msgid ""
@@ -139,59 +156,74 @@ msgid ""
 "complete or up-to-date as every location is reponsible for updating & "
 "maintaining their location's information."
 msgstr ""
+"私たちは、PyLadiesの `locations <http://www.pyladies.com/locations>`_ "
+"リストを管理しています（しようとしています）。しかし、各地域の情報更新と維持は、各地域のPyLadiesにお願いしているため、最新の情報ではないかもしれません。"
+" "
 
 #: ../../member/index.rst:20
 msgid ""
-"If you believe that there is a location not shown on our `locations`_ "
-"page, please feel free to ping the organizer (if you know them), `file an"
-" issue`_ or `submit a pull request`_ with the relevant information!"
+"If you believe that there is a location not shown on our `locations`_ page, "
+"please feel free to ping the organizer (if you know them), `file an issue`_ "
+"or `submit a pull request`_ with the relevant information!"
 msgstr ""
+"もし、あなたの地域のPyLadiesが、 `locations <http://www.pyladies.com/locations>`_ "
+"ページに掲載されていない場合は、その地域のオーガナイザー（ご存知でしたら）に、未掲載の旨を連絡し、関連情報を添えてissueを発行するかPull "
+"requestを送ってください。"
 
 #: ../../member/index.rst:22
 msgid ""
-"Once you find your location, go ahead and join their Meetup.com group (if"
-" they have one), and join/follow any social media accounts they have."
+"Once you find your location, go ahead and join their Meetup.com group (if "
+"they have one), and join/follow any social media accounts they have."
 msgstr ""
+"あなたの地域のPyLadiesを見つけたら、ぜひ地域PyLadiesのSNSグループ（もし、あったら）に参加やフォローをしてみてください。 "
 
 #: ../../member/index.rst:26
 msgid "Remote PyLadies"
-msgstr ""
+msgstr "リモートPyLadies"
 
 #: ../../member/index.rst:28
 msgid ""
 "We can't be everywhere.  But we're trying!  For those who do not have a "
-"PyLadies group within a reasonable distance (or even if you do!) we have "
-"an online PyLadies group called `Remote PyLadies`_!  Events are held by "
-"local organizers through online streaming/coding/etc tools and posted on "
-"the `Remote PyLadies`_ site."
+"PyLadies group within a reasonable distance (or even if you do!) we have an "
+"online PyLadies group called `Remote PyLadies`_!  Events are held by local "
+"organizers through online streaming/coding/etc tools and posted on the "
+"`Remote PyLadies`_ site."
 msgstr ""
+"PyLadiesグループが、まだ存在しない地域もあります。しかし、PyLadiesグループが近くにない人たち（または、近くに存在する人でも）のために、 "
+"`Remote PyLadies`_ "
+"と言う名前のオンラインPyLadiesグループがあります！イベントは、オンラインのストリーミング／コーディングなどのツールを使用して、地域のオーガナイザーによって開催されます。イベント情報は、`Remote"
+" PyLadies`_ のサイトに掲載されます。  "
 
 #: ../../member/index.rst:32
 msgid "Want to volunteer?"
-msgstr ""
+msgstr "ボランティアを希望する？"
 
 #: ../../member/index.rst:34
 msgid ""
-"Often times, our organizers - both local & remote - need help.  Whether "
-"it's mentorship for events, logistic help (e.g. a door woman).  Don't be "
-"shy in reaching out to them!  Their contact information *should* be "
-"listed on our `locations`_ page.  But if you're having trouble, please "
-"feel free to `ping us`_ for introductions."
+"Often times, our organizers - both local & remote - need help.  Whether it's"
+" mentorship for events, logistic help (e.g. a door woman).  Don't be shy in "
+"reaching out to them!  Their contact information *should* be listed on our "
+"`locations`_ page.  But if you're having trouble, please feel free to `ping "
+"us`_ for introductions."
 msgstr ""
+"時々、オーガナイザー - 地域とリモートの両方 - "
+"は、手伝いを必要とする時があります。手伝いの内容は、イベントのメンターや会場サポート（例えば受付）などです。恥ずかしがらず、彼らに手を貸してあげてください！彼らの連絡先情報は、"
+" `locations <http://www.pyladies.com/locations>`_ "
+"ページに掲載されているはずです。もしお困りの場合は、お気軽に  `ping us`_  にご連絡ください。"
 
 #: ../../member/index.rst:38
 msgid "Difficult Stuff"
-msgstr ""
+msgstr "私たちを取り巻く難しい問題"
 
 #: ../../member/index.rst:40
 msgid ""
-"While we all strive to be awesome, sh*t happens.  Please have a read of "
-"the following resources:"
-msgstr ""
+"While we all strive to be awesome, sh*t happens.  Please have a read of the "
+"following resources:"
+msgstr "私たちが賞賛に値するような努力している間、様々な困難にぶつかります。いつか出会う困難に備えて、次のページの一読をお願いします。"
 
 #: ../../member/reporting.rst:2
 msgid "Reporting Harassment"
-msgstr ""
+msgstr "ハラスメント報告"
 
 #: ../../member/reporting.rst:4
 msgid ""
@@ -199,6 +231,7 @@ msgid ""
 "space for its members, so we've written this document to help those who "
 "experience harassment within the PyLadies community."
 msgstr ""
+"人は嫌がられることをしてしまいます。それはどうしても起きてしまうこと。Pyladiesはメンバーに安全な場所を提供したいと考えています。そのため、PyLadiesはハラスメントを受けるであろうコミュニティメンバーの手助けになるよう、この章を作成しました。Pyladiesはメンバーに安全な場所を提供したいと考えているのです。"
 
 #: ../../member/reporting.rst:8
 msgid ""
@@ -206,294 +239,322 @@ msgid ""
 "witnessed!  But we hope to provide mediums in which you feel comfortable "
 "doing so."
 msgstr ""
+"あなたがハラスメントに直面したり目撃した時でも、 **報告は義務ではありません。**  "
+"けれど、もし可能であれば、あなたがやりやすい方法で情報提供いただけると嬉しいです。"
 
 #: ../../member/reporting.rst:12
 msgid "Who to Talk to"
-msgstr ""
+msgstr "誰に話せばいいですか？"
 
 #: ../../member/reporting.rst:14
 msgid ""
-"If you've faced harassment or witness an event attendee or someone within"
-" a PyLadies chatroom, we encourage you to report what you saw to an "
-"organizer, chat operator, or whomever is in charge of the space.  For "
-"instance, if the incident was during a local PyLadies Meetup event, reach"
-" out to the organizer(s) of that specific event.  If the incident was "
-"within the ``#pyladies`` IRC channel, please privately message the "
-"operator of the channel, currently ``@roguelynn`` (a.k.a. `Lynn Root`_)."
-"  You can also hop into the ``#pyladies-support`` channel for \"live\" "
-"discussion too."
+"If you've faced harassment or witness an event attendee or someone within a "
+"PyLadies chatroom, we encourage you to report what you saw to an organizer, "
+"chat operator, or whomever is in charge of the space.  For instance, if the "
+"incident was during a local PyLadies Meetup event, reach out to the "
+"organizer(s) of that specific event.  If the incident was within the "
+"``#pyladies`` IRC channel, please privately message the operator of the "
+"channel, currently ``@roguelynn`` (a.k.a. `Lynn Root`_).  You can also hop "
+"into the ``#pyladies-support`` channel for \"live\" discussion too."
 msgstr ""
+"もしPyLadiesのチャットルームで、ハラスメントの被害にあったり、参加者やそこにいない誰かが被害にあっている現場を見た場合、オーガナイザーや、チャットルームの管理者、もしくはその場所の責任者に報告しましょう。たとえば"
+" PyLadies Meetup "
+"イベント中にハラスメントを目撃したら、そのイベントのオーガナイザー（達）に報告してください。もし、``#pyladies``  "
+"チャットツールで見かけた場合は、チャンネルのオペレータである、``@roguelynn`` (a.k.a. `Lynn Root`_) "
+"さんにプライベートメッセージで報告してください。また、``#pyladies-support`` "
+"チャンネルに、現在起きていることとして報告しても構いません。"
 
 #: ../../member/reporting.rst:16
 msgid ""
-"If you can not find whomever is in charge with the PyLadies space, do not"
-" feel comfortable talking to them, or you wish to report a leader: please"
-" feel welcome to `email us`_.  The following PyLadies organizers are "
-"behind the Code of Coduct contact:"
+"If you can not find whomever is in charge with the PyLadies space, do not "
+"feel comfortable talking to them, or you wish to report a leader: please "
+"feel welcome to `email us`_.  The following PyLadies organizers are behind "
+"the Code of Coduct contact:"
 msgstr ""
+"もし、責任者を見つけれなかった場合、もしくは責任者に話したくない場合、またはリーダーに直接レポートしたい場合は、遠慮無く、`email us`_ "
+"してください。 以下の PyLadies オーガナイザーが行動規範に関する連絡先になります。 "
 
 #: ../../member/reporting.rst:18
 msgid "`Esther Nam`_ - Los Angeles"
-msgstr ""
+msgstr "`Esther Nam`_ - ロスアンゼルス"
 
 #: ../../member/reporting.rst:19
 msgid "`Lynn Root`_ - San Francisco"
-msgstr ""
+msgstr "`Lynn Root`_ - サンフランシスコ"
 
 #: ../../member/reporting.rst:21
 msgid ""
 "If you are not comfortable with one or more of the leaders above, please "
-"feel welcome to reach out to an individual above that you are comfortable"
-" with."
-msgstr ""
+"feel welcome to reach out to an individual above that you are comfortable "
+"with."
+msgstr "もし、上記のリーダーみんなといっぺんに連絡を取りたくないというのであれば、だれか一人に連絡してもらっても構いません。"
 
 #: ../../member/reporting.rst:24
 msgid "Harasser has relationship with venue/sponsor"
-msgstr ""
+msgstr "会場提供者やスポンサーによるハラスメントがあった場合"
 
 #: ../../member/reporting.rst:26
 msgid ""
-"If the harasser is an employee - or has an established relationship in "
-"some way - of the venue host or event sponsor, in addition to contacting "
-"a PyLadies leader above in some form, please feel empowered to reach out "
-"to the employer or whomever is responsible for the harasser."
+"If the harasser is an employee - or has an established relationship in some "
+"way - of the venue host or event sponsor, in addition to contacting a "
+"PyLadies leader above in some form, please feel empowered to reach out to "
+"the employer or whomever is responsible for the harasser."
 msgstr ""
+"もし、会場を提供してくれた会社の社員、もしくは会社に何らかの関係がある人、もしくはイベントのスポンサー、もしくは、 PyLadies "
+"のリーダーによる嫌がらせがあった場合は、会社の雇用主など、その人に対して責任がある人に勇気を持って訴えてください。"
 
 #: ../../member/reporting.rst:30
 msgid ""
 "The following is adapted from the `Geek Feminism Wiki`_ (such a great "
 "resource!)."
-msgstr ""
+msgstr "上記は `Geek Feminism Wiki`_ （とてもよいリソースですよ！）を参照しています。"
 
 #: ../../member/reporting.rst:33
 msgid "How to Report"
-msgstr ""
+msgstr "報告の方法"
 
 #: ../../member/reporting.rst:35
 msgid "We suggest that your report have two key things:"
-msgstr ""
+msgstr "報告に書いて欲しい2つのことがあります。"
 
 #: ../../member/reporting.rst:37
 msgid "a clear description of the harassment"
-msgstr ""
+msgstr "どのような出来事をハラスメントと考えたか、わかりやすく説明してください。"
 
 #: ../../member/reporting.rst:38
-msgid "a statement of what it is you want the contact to do about the harassment"
-msgstr ""
+msgid ""
+"a statement of what it is you want the contact to do about the harassment"
+msgstr "あなたが報告したハラスメントに対して、私たちにどのように対応してほしいのか記述してください。"
 
 #: ../../member/reporting.rst:40
 msgid ""
-"This makes it less likely that they will not understand, or pretend to "
-"not understand, that you want action taken. It also creates some evidence"
-" that they were asked to act, so that they cannot claim later that there "
-"was no specific thing they were supposed to do. Occasionally also someone"
-" is under specific instructions to not do anything about complaints "
-"without a specific call to action."
+"This makes it less likely that they will not understand, or pretend to not "
+"understand, that you want action taken. It also creates some evidence that "
+"they were asked to act, so that they cannot claim later that there was no "
+"specific thing they were supposed to do. Occasionally also someone is under "
+"specific instructions to not do anything about complaints without a specific"
+" call to action."
 msgstr ""
+"起こったことを詳細に書くことにより、対象者がハラスメントを理解できない、もしくは理解できないふりをすることを防ぎます。私たちは対象者が行った行動に対して質問し、回答を記録し、後で違うことを言い出すのを防ぎます。ときには行動喚起を行うだけの場合もあります。"
 
 #: ../../member/reporting.rst:42
 msgid "Other useful things to include:"
-msgstr ""
+msgstr "可能なら、以下も書いてください。"
 
 #: ../../member/reporting.rst:44
 msgid ""
 "evidence, such as copies of harassing emails or letters, dates of phone "
 "calls or in-person actions"
-msgstr ""
+msgstr "嫌がらせの電子メールや手紙のコピー、電話の日付、されたことの証拠"
 
 #: ../../member/reporting.rst:46
 msgid ""
 "You may wish to store both copies/records of harassing contact and of "
 "complaints you made."
-msgstr ""
+msgstr "報告後にハラスメントの報告を行った記録、メールの送信履歴など、と送信した内容を保存しておくことをおすすめします。"
 
 #: ../../member/reporting.rst:51
 msgid "Sample Written Report"
-msgstr ""
+msgstr "報告書の書き方のサンプル"
 
 #: ../../member/reporting.rst:53
 msgid "Dear ``<NAME>``,"
-msgstr ""
+msgstr "親愛なる ``<NAME>`` ,"
 
 #: ../../member/reporting.rst:55
 msgid ""
 "I wish to report that I was harassed by ``<NAME/EMAIL/HANDLE>``, who "
-"``<MANNER OF HARASSMENT>``. [Optional: This harassment has had ``<EFFECT "
-"ON ME>``.] Since you have ``<RELATIONSHIP WITH HARASSER>``, I request "
-"that you take the following action:"
+"``<MANNER OF HARASSMENT>``. [Optional: This harassment has had ``<EFFECT ON "
+"ME>``.] Since you have ``<RELATIONSHIP WITH HARASSER>``, I request that you "
+"take the following action:"
 msgstr ""
+"私は ``<MANNER OF HARASSMENT>`` から ``<ハラスメントの内容>`` を受けたことを報告します。 [任意: "
+"報告するハラスメントが ``<EFFECT ON ME>`` ]  ``<RELATIONSHIP WITH HARASSER>`` "
+"に対して、以下のことを行ってください。"
 
 #: ../../member/reporting.rst:57
 msgid "``<LIST OF ACTIONS>``"
-msgstr ""
+msgstr "``<LIST OF ACTIONS>``"
 
 #: ../../member/reporting.rst:59
 msgid ""
 "[Optional: I request that you treat this complaint in confidence and not "
-"reveal identifying information about me to ``<HARASSER>`` or ``<SOME "
-"OTHER PEOPLE>``.]"
+"reveal identifying information about me to ``<HARASSER>`` or ``<SOME OTHER "
+"PEOPLE>``.]"
 msgstr ""
+"[任意: 私の苦情を扱うときに、 ``<HARASSER>`` や ``<SOME OTHER PEOPLE>`` に私の情報を公開しないでください。]"
 
 #: ../../member/reporting.rst:61
 msgid ""
-"[Optional: I have already separately reported this harassment to ``<OTHER"
-" AUTHORITY>`` and they have taken ``<ACTION>``.]"
+"[Optional: I have already separately reported this harassment to ``<OTHER "
+"AUTHORITY>`` and they have taken ``<ACTION>``.]"
 msgstr ""
+"[任意: 私はすでに ``<OTHER AUTHORITY>`` にこのハラスメントを報告しており、彼らは ``<ACTION>`` "
+"をおこないました。]"
 
 #: ../../member/reporting.rst:63
 msgid ""
 "[Optional: a fuller account of their harassment/emails with full headers "
 "follows.]"
-msgstr ""
+msgstr "[任意: ハラスメントを行った人たちのすべての連絡先 / すべてのヘッダーを含む電子メール]"
 
 #: ../../member/reporting.rst:65
 msgid "``<YOUR NAME>``"
-msgstr ""
+msgstr "``<YOUR NAME>``"
 
 #: ../../member/reporting.rst:69
 msgid "Example Actions to Request"
-msgstr ""
+msgstr "リクエストを行う際の例"
 
 #: ../../member/reporting.rst:71
 msgid ""
 "When reporting the incident, depending on your level of comfort and the "
 "level of severity, some example actions you may want to ask of us:"
-msgstr ""
+msgstr "気軽さや重大度に寄りますが、インシデントを報告する時、あなたが私たちに聞いて良いいくつかの例: "
 
 #: ../../member/reporting.rst:74
 msgid "Meetup/In person organzied event"
-msgstr ""
+msgstr "Meetupまたはオフラインでイベントを運営した"
 
 #: ../../member/reporting.rst:76
 msgid "develop and enforce anti-harassment policy for your event"
-msgstr ""
+msgstr "あなたのイベントの反ハラスメント規約を策定し、実施する"
 
 #: ../../member/reporting.rst:77 ../../member/reporting.rst:95
 msgid ""
 "confirm whether or not ``<HARASSER>``'s behaviour violates existing anti-"
 "harassment policy"
-msgstr ""
+msgstr "``<HARASSER>`` のふるまいが反ハラスメント規約に従わないかどうかを確認する"
 
 #: ../../member/reporting.rst:78
 msgid "tell ``<HARASSER>`` to stop harassing people at this event"
-msgstr ""
+msgstr "``<HARASSER>`` にこのイベントでのハラスメントをやめるように伝える"
 
 #: ../../member/reporting.rst:79
-msgid "ask ``<HARASSER>`` to cease attempting to interact with me at this event/"
-msgstr ""
+msgid ""
+"ask ``<HARASSER>`` to cease attempting to interact with me at this event/"
+msgstr "``<HARASSER>`` にこのイベントで交流しないように要請する。"
 
 #: ../../member/reporting.rst:80
 msgid "record ``<HARASSER'S>`` behavior for monitoring"
-msgstr ""
+msgstr "監視のため ``<HARASSER'S>`` の行動を記録する。"
 
 #: ../../member/reporting.rst:81
 msgid ""
 "remove ``<HARASSER>`` from their position among the event "
 "organizers/staff/volunteers"
-msgstr ""
+msgstr "主催者、スタッフ、ボランティアのイベント内での ``<HARASSER>`` の身分を排除する。"
 
 #: ../../member/reporting.rst:82
 msgid "ask ``<HARASSER>`` to leave the event"
-msgstr ""
+msgstr " ``<HARASSER>`` にイベントを去るように要請する。"
 
 #: ../../member/reporting.rst:83
 msgid "ban ``<HARASSER>`` from future events"
-msgstr ""
+msgstr " ``<HARASSER>`` を今後のイベント参加禁止にする。"
 
 #: ../../member/reporting.rst:84 ../../member/reporting.rst:102
 #: ../../member/reporting.rst:129 ../../member/reporting.rst:142
 #: ../../member/reporting.rst:163 ../../member/reporting.rst:178
 msgid "assist me in referring ``<HARASSER>``'s actions to law enforcement"
-msgstr ""
+msgstr " ``<HARASSER>``の行動に関して法的処置をするため、私に協力して下さい。"
 
 #: ../../member/reporting.rst:88
 msgid "Online services (IRC, forums, etc)"
-msgstr ""
+msgstr "オンラインサービス（IRC、フォーラム、など）"
 
 #: ../../member/reporting.rst:90
 msgid ""
-"PyLadies has an official IRC channel (``#pyladies`` on Freenode), a "
-"Reddit subreddit (`/r/pyladies`_), and a `Google+ community`_.  For "
-"those, you may contact the admin(s) or moderator(s) of such services, or "
-"reach out directly to us_.  There are many online groups that PyLadies "
-"organizers have for location-specific groups, in which contacting the "
-"admin(s)/moderator(s) or the contact email listed on our locations_ page "
-"may be best (you are still free to contact the `main email`_ as well!)"
+"PyLadies has an official IRC channel (``#pyladies`` on Freenode), a Reddit "
+"subreddit (`/r/pyladies`_), and a `Google+ community`_.  For those, you may "
+"contact the admin(s) or moderator(s) of such services, or reach out directly"
+" to us_.  There are many online groups that PyLadies organizers have for "
+"location-specific groups, in which contacting the admin(s)/moderator(s) or "
+"the contact email listed on our locations_ page may be best (you are still "
+"free to contact the `main email`_ as well!)"
 msgstr ""
+"PyLadies には公式 IRC チャネル （ ``#pyladies``  on Freenode）、Redditのsubreddit （ "
+"`/r/pyladies`_ ）と `Google+ community`_ "
+"があります。これらのサービスに参加する場合はサービスの管理者（達）またはモデレーター（達）に連絡するか、私たちに直接ご連絡ください。他にも地域別のPyLadiesオーガナイザーのオンライングループがあり、参加には管理者（達）・モデレーター（達"
+"）、locations_pageのe-mailに連絡するのが望ましいです。（もちろんmain email に連絡しても構いません！）"
 
 #: ../../member/reporting.rst:92
 msgid "Example actions:"
-msgstr ""
+msgstr "取り組みの例："
 
 #: ../../member/reporting.rst:94
 msgid "develop and enforce anti-harassment policy on your service"
-msgstr ""
+msgstr "サービスの反ハラスメント規約を開発して強化してください。"
 
 #: ../../member/reporting.rst:96 ../../member/reporting.rst:174
 msgid "tell ``<HARASSER>`` to stop using this service to harass people"
-msgstr ""
+msgstr "ハラスメント目的でサービスを使うことを ``<HARASSER>``  に辞めるよう忠告する。"
 
 #: ../../member/reporting.rst:97
 msgid ""
-"make ``<HARASSER>`` invisible to me, so that I cannot see their messages,"
-" whether public or private"
-msgstr ""
+"make ``<HARASSER>`` invisible to me, so that I cannot see their messages, "
+"whether public or private"
+msgstr "公開であるか、非公開であるかにかかわらず、 ``<HARASSER>``  に彼らのメッセージを見えないようにする。"
 
 #: ../../member/reporting.rst:98
 msgid "monitor ``<HARASSER>``'s postings for threats"
-msgstr ""
+msgstr "悪いことの兆しに備え ``<HARASSER>`` の投稿を監視する"
 
 #: ../../member/reporting.rst:99
 msgid ""
-"deregister/block ``<HARASSER>`` from using my part of this service, or "
-"give me instructions on how to do so (a particular forum or chat room, "
-"say)"
+"deregister/block ``<HARASSER>`` from using my part of this service, or give "
+"me instructions on how to do so (a particular forum or chat room, say)"
 msgstr ""
+"（フォーラムやチャットなどのサービスで、）ハラスメント行為者 ``<HARASSER>`` "
+"がわたしにアクセスできないように解約かブロックをしてください。もしくは、わたしに解約やブロックの方法を教えてください。"
 
 #: ../../member/reporting.rst:100 ../../member/reporting.rst:176
 msgid "deregister/block ``<HARASSER>`` from using this service"
-msgstr ""
+msgstr " ``<HARASSER>`` のサービスアカウントを登録解除・ブロックする"
 
 #: ../../member/reporting.rst:101 ../../member/reporting.rst:177
 msgid ""
 "provide me/law enforcement with identifying information about "
 "``<HARASSER>``'s account"
-msgstr ""
+msgstr "私や警察に ``<HARASSER>`` のアカウントを特定するための情報を提供する。"
 
 #: ../../member/reporting.rst:106
 msgid "Other Avenues"
-msgstr ""
+msgstr "他の方法"
 
 #: ../../member/reporting.rst:108
 msgid ""
-"PyLadies can only do so much, but there are other people and avenues to "
-"talk to where PyLadies may fall short.  We also encourage our leaders to "
-"reach out to our contacts (e.g. an event host) to work towards making a "
-"better environment for our event space."
+"PyLadies can only do so much, but there are other people and avenues to talk"
+" to where PyLadies may fall short.  We also encourage our leaders to reach "
+"out to our contacts (e.g. an event host) to work towards making a better "
+"environment for our event space."
 msgstr ""
+"PyLadiesにできることは限られていますが、PyLadiesが見落としている人々や呼びかける手段が他にもあります。私たちのイベントスペースをよりよくするため、リーダー達は、私たちへのコンタクトをぜひ広げて下さい。（例：イベント主催）"
 
 #: ../../member/reporting.rst:111
 msgid "Employer"
-msgstr ""
+msgstr "雇用主"
 
 #: ../../member/reporting.rst:113
 msgid ""
-"If the harrasser is an employee of a PyLadies venue host or sponsor, "
-"please feel comfortable in reaching out to their employer. You might "
-"consider reporting to the harasser's employer if:"
+"If the harrasser is an employee of a PyLadies venue host or sponsor, please "
+"feel comfortable in reaching out to their employer. You might consider "
+"reporting to the harasser's employer if:"
 msgstr ""
+"ハラスメント行為者が会場提供社やスポンサー社の従業員である場合には、遠慮なく雇用主の会社にお伝えください。以下のような場合には、ハラスメント行為者の雇用主に報告することを検討してください。"
 
 #: ../../member/reporting.rst:115
 msgid ""
-"you are being harassed using company resources, such as from a work email"
-" address, fax machine or telephone number"
-msgstr ""
+"you are being harassed using company resources, such as from a work email "
+"address, fax machine or telephone number"
+msgstr "仕事のメールアドレスやFAX、電話番号等の会社のリソースを利用してハラスメントを受けている場合。"
 
 #: ../../member/reporting.rst:116
 msgid ""
-"the harasser claims that their actions were encouraged by their employer,"
-" such as being a marketing ploy or a customer outreach activity"
+"the harasser claims that their actions were encouraged by their employer, "
+"such as being a marketing ploy or a customer outreach activity"
 msgstr ""
+"ハラスメント行為者が、その行為が雇用主からマーケティング対策や、顧客に対するアウトリーチ活動であるとして推奨されるものであると主張する場合。"
 
 #: ../../member/reporting.rst:117
 msgid ""
@@ -502,185 +563,199 @@ msgid ""
 "distributing business cards with the company's name on it or soliciting "
 "business for the company"
 msgstr ""
+"その会社のバッジや会社の名前が入った名刺を配る、その会社のビジネスの勧誘をする等、会社の代表者として振る舞う人にハラスメントを受けている場合。"
 
 #: ../../member/reporting.rst:118
 msgid ""
 "you are being harassed privately by someone whose job requires them to "
 "maintain good public standing or who wields a great deal of authority in "
-"their job, such as an employee of a feminist organisation, a politician, "
-"a police officer, a doctor or a lawyer. For many professions you may be "
-"able to look up their professional ethics standard and find out if their "
+"their job, such as an employee of a feminist organisation, a politician, a "
+"police officer, a doctor or a lawyer. For many professions you may be able "
+"to look up their professional ethics standard and find out if their "
 "behaviour outside of work is governed by their professional affiliation."
 msgstr ""
+"フェミニスト団体の従業員や政治家、警察官、弁護士等の公的に節度が求められる仕事や仕事上権力を持っている人から個人的にハラスメントを受けている場合。沢山の職業について、それらの職業倫理基準を調べ、彼らの仕事外での行動が所属団体によって統制されているかどうかを見極められる可能性があります。"
 
 #: ../../member/reporting.rst:120 ../../member/reporting.rst:136
 #: ../../member/reporting.rst:154
 msgid "Possible actions to request:"
-msgstr ""
+msgstr "リクエストのための可能な取り組み："
 
 #: ../../member/reporting.rst:122 ../../member/reporting.rst:156
 msgid ""
 "tell me whether or not the actions of ``<HARASSER>`` were authorised or "
 "approved by your organisation"
-msgstr ""
+msgstr "``<HARASSER>`` の行為があなたの組織によって認可もしくは承認されているかどうかを教えてください。"
 
 #: ../../member/reporting.rst:123
 msgid ""
 "confirm whether or not ``<COMPANY>`` has policy that prohibits "
 "``<HARASSER>``'s behavior"
-msgstr ""
+msgstr "``<HARASSER>`` の行為を禁止する規定を ``<COMPANY>`` が定めているかどうかを確認しましょう"
 
 #: ../../member/reporting.rst:124 ../../member/reporting.rst:160
 msgid ""
-"confirm for me that you will speak with ``<HARASSER>`` and make it clear "
-"to them that their behaviour is unacceptable and must stop immediately"
+"confirm for me that you will speak with ``<HARASSER>`` and make it clear to "
+"them that their behaviour is unacceptable and must stop immediately"
 msgstr ""
+"ハラスメントを受けたわたしのためにも、ハラスメント行為者 ``<HARASSER>`` "
+"に話をして、彼らの振る舞いは許容範囲を超えているので、すぐに止めるべきと確認してください。"
 
 #: ../../member/reporting.rst:125
 msgid ""
-"immediately provide me with a new contact/account manager at "
-"``<COMPANY>``, as I cannot do business with ``<HARASSER>`` any longer"
+"immediately provide me with a new contact/account manager at ``<COMPANY>``, "
+"as I cannot do business with ``<HARASSER>`` any longer"
 msgstr ""
+"もう ``<HARASSER>`` とは仕事をできないため、 ``<COMPANY>`` "
+"ですぐに新しい連絡先やアカウントを管理者から発行してもらいましょう"
 
 #: ../../member/reporting.rst:126
 msgid ""
-"terminate my account with ``<COMPANY>`` effective immediately (obviously,"
-" this will depend on contracts you have in place)"
-msgstr ""
+"terminate my account with ``<COMPANY>`` effective immediately (obviously, "
+"this will depend on contracts you have in place)"
+msgstr "すぐに ``<COMPANY>`` で有効なアカウントを無効にしましょう（もちろん、あなたの所属するアカウント管理によります）"
 
 #: ../../member/reporting.rst:127
 msgid ""
 "do not allow ``<HARASSER>`` to represent ``<COMPANY>`` in this capacity "
 "again as ``<HARASSER>`` is harming your company's image"
 msgstr ""
+"``<HARASSER>`` はあなたの会社のイメージを損なっているので、その意識を持ち、 ``<HARASSER>`` で ``<COMPANY>``"
+" を表すことをしてはいけません"
 
 #: ../../member/reporting.rst:128
 msgid "re-consider ``<HARASSER>``'s employment with your company"
-msgstr ""
+msgstr "``<HARASSER>`` の雇用を会社で考え直す"
 
 #: ../../member/reporting.rst:132
 msgid "Professional Body"
-msgstr ""
+msgstr "プロフェッショナル組織"
 
 #: ../../member/reporting.rst:134
 msgid ""
 "This might be, for example, a medical registration board, or the bar "
 "organisation for lawyers. You might consider this if your harasser is an "
 "individual who has a professional membership that governs their private "
-"behaviour. You may possibly also do this if your harasser is about to "
-"join such a profession (eg. they are a medical student)."
+"behaviour. You may possibly also do this if your harasser is about to join "
+"such a profession (eg. they are a medical student)."
 msgstr ""
+"これは例えば、医療登録ページや法律家のためのバー組織を指します。ハラスメント行為者がプロの職業に従事している場合、プライベート行動を統治していると考えるかもしれません。ハラスメント行為者がそのような職業なる前の場合もその事が考えられます。（例：医学部生）"
 
 #: ../../member/reporting.rst:138
 msgid ""
-"confirm whether or not ``<HARASSER>``'s behaviour violates your ethical "
-"code"
-msgstr ""
+"confirm whether or not ``<HARASSER>``'s behaviour violates your ethical code"
+msgstr "``<HARASSER>`` の振る舞いがあなたの倫理規定に違反していないかどうかを確認する"
 
 #: ../../member/reporting.rst:139
 msgid ""
 "confirm for me that you will sanction ``<HARASSER>`` according to your "
-"profession's standards (you might make specific reference to their ethics"
-" code if you have read them)"
+"profession's standards (you might make specific reference to their ethics "
+"code if you have read them)"
 msgstr ""
+"あなたのプロフェッショナル基準に従った ``<HARASSER>`` を確認しましょう（このドキュメントを読み、具体的な倫理規定を作りましょう）"
 
 #: ../../member/reporting.rst:140
 msgid ""
 "open disciplinary proceedings against ``<HARASSER>`` to consider their "
 "deregistration from ``<PROFESSION>``"
-msgstr ""
+msgstr "``<PROFESSION>`` からの登録抹消を求めるために懲戒訴訟手続きを ``<HARASSER>`` に対して起こしましょう"
 
 #: ../../member/reporting.rst:141
 msgid ""
 "do not allow ``<HARASSER>`` to register as a practising member of "
 "``<PROFESSION>``"
-msgstr ""
+msgstr "``<PROFESSION>`` の熟練したメンバーとして ``<HARASSER>`` を登録することを許さない"
 
 #: ../../member/reporting.rst:145
 msgid "Educational Institution"
-msgstr ""
+msgstr "教育機関"
 
 #: ../../member/reporting.rst:147
 msgid ""
-"Much as in the case of an employer, in some circumstances you might "
-"choose not to involve an educational institution in a student's external "
-"activities. But again there are some circumstances where you might "
-"consider it:"
+"Much as in the case of an employer, in some circumstances you might choose "
+"not to involve an educational institution in a student's external "
+"activities. But again there are some circumstances where you might consider "
+"it:"
 msgstr ""
+"雇用主の場合、ある状況下では、学生の課外活動として教育機関が関与されない状態となってしまう場合もあります。しかし、あなたが考慮した方がいい環境がいくつかあります。"
 
 #: ../../member/reporting.rst:149
 msgid ""
 "you are being harassed using institutional resources, such as a "
 "institutional email address, fax machine or telephone number"
-msgstr ""
+msgstr "機構のメールアドレスや、ファックス、もしくはメールアドレスなどを利用してハラスメント行為をされている"
 
 #: ../../member/reporting.rst:150
 msgid ""
-"the harasser claims that their actions were encouraged by their "
-"institution, such as claiming that the actions are part of a research "
-"study or project for assessment"
-msgstr ""
+"the harasser claims that their actions were encouraged by their institution,"
+" such as claiming that the actions are part of a research study or project "
+"for assessment"
+msgstr "ハラスメント行為者は、彼らの行動は彼らの機関に奨励されたもので、例えばその行動は研究や評価のためのプロジェクトであると主張します。"
 
 #: ../../member/reporting.rst:151
 msgid ""
 "you are being harassed by someone acting as a representative of their "
-"institution, such as someone attending or speaking at a conference in "
-"their role as a researcher"
-msgstr ""
+"institution, such as someone attending or speaking at a conference in their "
+"role as a researcher"
+msgstr "研究者として会議に出席したり発表したりする等、機関の代表者として振る舞う人にハラスメントを受けている場合。"
 
 #: ../../member/reporting.rst:157
 msgid ""
-"confirm whether or not ``<HARASSER>`` has ethics approval for this "
-"research [or assessment]"
-msgstr ""
+"confirm whether or not ``<HARASSER>`` has ethics approval for this research "
+"[or assessment]"
+msgstr "``<HARASSER>`` がこの研究 [あるいは評価] で倫理の賛同を得ているかどうかを証明する"
 
 #: ../../member/reporting.rst:158
 msgid ""
 "give me the contact details of the project's chief investigator [or the "
-"course's teacher] and ``<INSTITUTION>``'s ethics review board so that I "
-"can ask that ``<HARASSER>``'s project be reviewed"
+"course's teacher] and ``<INSTITUTION>``'s ethics review board so that I can "
+"ask that ``<HARASSER>``'s project be reviewed"
 msgstr ""
+"``<HARASSER>`` のプロジェクトの再検討要請をするため、代表開発者 [またはコースの先生] の詳細な連絡先と "
+"``<INSTITUTION>`` の倫理審査委員会をお知らせ下さい。"
 
 #: ../../member/reporting.rst:159
 msgid ""
 "confirm whether or not ``<INSTITUTION>`` has policy that prohibits "
 "``<HARASSER>``'s behaviour"
-msgstr ""
+msgstr "``<INSTITUTION>`` に ``<HARASSER>`` の振る舞いを禁止する規約があるかどうかを確認する"
 
 #: ../../member/reporting.rst:161
 msgid ""
-"do not allow ``<HARASSER>`` to represent ``<INSTITUTION>`` in this "
-"capacity again as ``<HARASSER>`` is harming your institution's image"
+"do not allow ``<HARASSER>`` to represent ``<INSTITUTION>`` in this capacity "
+"again as ``<HARASSER>`` is harming your institution's image"
 msgstr ""
+"<HARASSER>はあなたの会社のイメージを損なっているので、その意識を持ち、<HARASSER>で<INSTITUTION>を表すことを許しません"
 
 #: ../../member/reporting.rst:162
 msgid "re-consider ``<HARASSER>``'s enrolment with your institution"
-msgstr ""
+msgstr "``<HARASSER>`` の雇用を会社で考え直す"
 
 #: ../../member/reporting.rst:166
 msgid "Internet Service Provider"
-msgstr ""
+msgstr "インターネットサービスプロバイダ"
 
 #: ../../member/reporting.rst:168
 msgid ""
 "In the case where the harassment is occurring online service, you may be "
-"able to trace the harasser via email address or IP address to a "
-"particular ISP."
+"able to trace the harasser via email address or IP address to a particular "
+"ISP."
 msgstr ""
+"ハラスメント行為がオンラインサービス上で行なわれた場合、ハラスメント行為者をe-mailアドレスまたはIPアドレスを通して追跡する事ができるものとする。"
 
 #: ../../member/reporting.rst:170
 msgid ""
 "ISPs typically do not heavily police the actions of their users and may "
 "refuse to assist you unless law enforcement is also involved, but at the "
-"very least, you have a recorded complaint that may be useful if the "
-"person's behaviour is systemic."
+"very least, you have a recorded complaint that may be useful if the person's"
+" behaviour is systemic."
 msgstr ""
+"ISPは基本的にはユーザの行動指針を厳重には規定していません。そして、ユーザが加害者の行動に関する明確な苦情を記録している場合、及び、法律が関わることでない限りは、ユーザへの協力を断ることとします。"
 
 #: ../../member/reporting.rst:172
 msgid "Possible actions to request"
-msgstr ""
+msgstr "要求すべき行動"
 
 #: ../../member/reporting.rst:175
 msgid "monitor ``<HARASSER>``'s Internet activity for threats"
-msgstr ""
-
+msgstr "``<HARASSER>`` のインターネット上の脅迫行為を監視"
