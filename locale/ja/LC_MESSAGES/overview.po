@@ -9,31 +9,33 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyLadies Handbook 2.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-08 19:44+0900\n"
+"POT-Creation-Date: 2018-01-20 17:04+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: Kameko Ohmura, 2018\n"
+"Language-Team: Japanese (https://www.transifex.com/pyladiestokyo/teams/82182/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../overview.rst:2
 msgid "Overview"
-msgstr ""
+msgstr "概要"
 
 #: ../../overview.rst:5
 msgid "About"
-msgstr ""
+msgstr "PyLadiesについて"
 
 #: ../../overview.rst:7
 msgid ""
-"We are an international mentorship group with a focus on helping more "
-"women become active participants and leaders in the Python open-source "
-"community. Our mission is to promote, educate and advance a diverse "
-"Python community through outreach, education, conferences, events and "
-"social gatherings."
+"We are an international mentorship group with a focus on helping more women "
+"become active participants and leaders in the Python open-source community. "
+"Our mission is to promote, educate and advance a diverse Python community "
+"through outreach, education, conferences, events and social gatherings."
 msgstr ""
+"PyLadiesは国際的なメンターシップ・グループです。私たちは、Pythonのオープンソースコミュニティ内でより多くの女性たちが積極的な参加者・リーダーになるためのサポートに重点的に取り組んでいます。私たちのミッションは、多様なPythonコミュニティを盛り上げ、育て、より発展させていくことです。そのためにアウトリーチや教育、カンファレンス、イベント、懇親会などの活動を行なっています。"
 
 #: ../../overview.rst:9
 msgid ""
@@ -41,67 +43,71 @@ msgid ""
 "bridge to the larger Python world. Anyone with an interest in Python is "
 "encouraged to participate!"
 msgstr ""
+"またPyLadiesは、女性のためのフレンドリーなサポートネットワークを築き、より広いPython "
+"Worldへの架け橋となることも目的としています。Pythonに興味があるなら是非参加してみましょう!"
 
 #: ../../overview.rst:13
 msgid "How to Use this Kit"
-msgstr ""
+msgstr "このキットの使い方"
 
 #: ../../overview.rst:15
 msgid ""
 "Copy our model (fork & contribute). Or fork and make it completely "
 "different. We don’t mind if you get creative!"
 msgstr ""
+"私たちのモデル（リポジトリ）をコピーしてください（フォーク＆コントリビュート）。またはフォークして完全に違うものにします。あなたが工夫して使っても私たちは気にしません！"
 
 #: ../../overview.rst:18
 msgid "Purpose"
-msgstr ""
+msgstr "目的"
 
 #: ../../overview.rst:20
 msgid "Their are a few purposes of this PyLadies kit:"
-msgstr ""
+msgstr "これらはこのPyLadiesキットのいくつかの目的です： "
 
 #: ../../overview.rst:22
 msgid ""
-"To help those interested in :doc:`starting <prospective/index>` their own"
-" local PyLadies"
-msgstr ""
+"To help those interested in :doc:`starting <prospective/index>` their own "
+"local PyLadies"
+msgstr "自分の地域のPyLadiesを開始することに興味のある人を支援する "
 
 #: ../../overview.rst:23
 msgid "To be a guide for :doc:`current local organizers <organizer/index>`"
-msgstr ""
+msgstr "地域の主催者のためのガイドとなること "
 
 #: ../../overview.rst:24
 msgid "To be a guide for  :doc:`members <member/index>`"
-msgstr ""
+msgstr "会員のためのガイド"
 
 #: ../../overview.rst:26
 msgid ""
 "Currently, you can ``pip install pyladies`` (see :ref:`install`) with "
-"limited functionality.  But we plan on more awesome tools for the "
-"PyLadies package."
+"limited functionality.  But we plan on more awesome tools for the PyLadies "
+"package."
 msgstr ""
+"現在のところ、pipで機能限定のpyladiesをインストールすることができます。（pip install "
+"pyladiesを参照）しかし、私たちはPyLadiesパッケージのためのより素晴らしいツールを計画しています。"
 
 #: ../../overview.rst:31
 msgid "pip install pyladies"
-msgstr ""
+msgstr "pipでpyladiesをインストールする"
 
 #: ../../overview.rst:34
 msgid "Installation"
-msgstr ""
+msgstr "インストール"
 
 #: ../../overview.rst:36
 msgid "pyladies can be easily installed using::"
-msgstr ""
+msgstr "pyladiesは以下を使って簡単にインストールできます： "
 
 #: ../../overview.rst:42
 msgid "Usage"
-msgstr ""
+msgstr "使用法"
 
 #: ../../overview.rst:44
 msgid "You can view the PyLadies docs by running::"
-msgstr ""
+msgstr "PyLadiesのドキュメントを表示するには、次のコマンドを実行します。"
 
 #: ../../overview.rst:48
 msgid "It's pretty limited functionality.  But stay tuned for more"
-msgstr ""
-
+msgstr "かなり限定された機能です。しかし、この後も楽しんでください。 "

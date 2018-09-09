@@ -9,68 +9,74 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyLadies Handbook 2.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-08 19:44+0900\n"
+"POT-Creation-Date: 2018-01-20 17:04+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: Kameko Ohmura, 2018\n"
+"Language-Team: Japanese (https://www.transifex.com/pyladiestokyo/teams/82182/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../index.rst:2
 msgid "PyLadies Kit"
-msgstr ""
+msgstr "PyLadies Kit"
 
 #: ../../index.rst:4
 msgid "Release v\\ |version| (:doc:`What's new? <changelog>`)"
-msgstr ""
+msgstr "Release v\\ |version| (:doc:`What's new? <changelog>`)"
 
 #: ../../intro.rst:3
 msgid ""
-"The ``pyladies`` kit gets you up and running with starting a PyLadies "
-"local group, including what's needed, advice, event planning help, and "
-"some tools that may be helpful."
+"The ``pyladies`` kit gets you up and running with starting a PyLadies local "
+"group, including what's needed, advice, event planning help, and some tools "
+"that may be helpful."
 msgstr ""
+"``pyladies`` kit "
+"は、PyLadiesの地域グループをスタートするために必要なもの、アドバイス、イベントの計画、ヘルプとそれに役立つツールの情報を含んでいます。"
 
 #: ../../intro.rst:5
 msgid ""
 "The ``pyladies`` documentation is licensed under the `Creative Commons "
-"Attribution 3.0 Unported License`_.  The ``pyladies`` code is licensed "
-"under the `MIT License`_."
+"Attribution 3.0 Unported License`_.  The ``pyladies`` code is licensed under"
+" the `MIT License`_."
 msgstr ""
+"``pyladies`` ドキュメントは `Creative Commons Attribution 3.0 Unported License`_ "
+"ライセンスです。 `pyladies`` コードは、 `MIT License`_ です。"
 
 #: ../../intro.rst:7
 msgid ""
 "The PyLadies wordmark and logo is trademarked, with the usage policy "
 "available here defined :doc:`misc/trademark`."
 msgstr ""
+"PyLadies の文字とロゴは商標登録されています。利用するためのポリシーは  :doc:`misc/trademark` で定義されています。"
 
 #: ../../index.rst:11
 msgid "Intro"
-msgstr ""
+msgstr "はじめに"
 
 #: ../../index.rst:19
 msgid "Prospective Organizers"
-msgstr ""
+msgstr "これからオーガナイザーになる人へ"
 
 #: ../../index.rst:21
 msgid "Everything you need to start your own PyLadies location!"
-msgstr ""
+msgstr "あなたの地域でPyLadiesをスタートするために必要なことのすべて"
 
 #: ../../index.rst:30
 msgid "Current Organizers"
-msgstr ""
+msgstr "現在のオーガナイザー"
 
 #: ../../index.rst:38
 msgid "PyLadies Members"
-msgstr ""
+msgstr "PyLadies のメンバー"
 
 #: ../../index.rst:47
 msgid "Global Organization"
-msgstr ""
+msgstr "グローバル組織"
 
 #: ../../index.rst:56
 msgid "Misc"
-msgstr ""
-
+msgstr "その他"
