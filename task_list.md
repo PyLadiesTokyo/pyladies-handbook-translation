@@ -2,17 +2,17 @@
 
 ## 翻訳
 
-- [ ] index.po
-- [ ] overview.po
+- [x] index.po
+- [x] overview.po
 - [ ] prospective.po
 - [ ] organizer.po
-- [ ] member.po
+- [x] member.po
 - [ ] global.po
 - [ ] intro.po
 - [ ] misc.po
 - [ ] changelog.po
-- [ ] about.po
-- [ ] coc.po
+- [x] about.po
+- [x] coc.po
 
 ## レビュー
 
